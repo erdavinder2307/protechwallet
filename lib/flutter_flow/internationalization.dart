@@ -157,6 +157,12 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'de': 'Anmeldung',
       'es': 'Acceso',
     },
+    '21l36acn': {
+      'en': 'Sign In with:',
+      'ar': '',
+      'de': '',
+      'es': '',
+    },
     'cjqb8ial': {
       'en': 'Don\'t have an account?',
       'ar': 'ليس لديك حساب؟',
@@ -237,6 +243,12 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
       'ar': 'إنشاء حساب',
       'de': 'Benutzerkonto erstellen',
       'es': 'Crear una cuenta',
+    },
+    's2ka2u9v': {
+      'en': 'Signup with:',
+      'ar': '',
+      'de': '',
+      'es': '',
     },
     '3twynvfz': {
       'en': 'Login',
